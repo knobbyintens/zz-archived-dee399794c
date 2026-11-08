@@ -1,0 +1,3 @@
+stages:
+  - name: extract
+    command: python -m templates.basic.pipeline
